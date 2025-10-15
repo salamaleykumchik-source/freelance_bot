@@ -2,4 +2,7 @@ python-telegram-bot==20.3
 openai==0.28.1
 aiohttp==3.9.5
 requests==2.31.0
-urllib3==2.2.2
+urllib3==1.26.16
+certifi==2023.7.22
+idna==3.4
+charset-normalizer==3.2.0
